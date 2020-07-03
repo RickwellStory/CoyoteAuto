@@ -1,0 +1,202 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * ff-good-web-pro:
+ *   - http://typekit.com/eulas/00000000000000003b9b0604
+ *   - http://typekit.com/eulas/00000000000000003b9b0605
+ *   - http://typekit.com/eulas/00000000000000003b9b05ff
+ *   - http://typekit.com/eulas/00000000000000003b9b05fe
+ *   - http://typekit.com/eulas/00000000000000003b9b0603
+ *   - http://typekit.com/eulas/00000000000000003b9b0602
+ * ff-good-web-pro-extra-conden:
+ *   - http://typekit.com/eulas/00000000000000003b9b063c
+ *   - http://typekit.com/eulas/00000000000000003b9b063d
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2019-09-12 12:40:23 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=gtx2lff&ht=tk&f=8761.8762.8763.8764.8767.8768.23327.23328&a=1016362&app=typekit&e=css");
+
+@font-face {
+font-family:"ff-good-web-pro";
+src:url("https://use.typekit.net/af/a92a50/00000000000000003b9b0604/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/a92a50/00000000000000003b9b0604/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/a92a50/00000000000000003b9b0604/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"ff-good-web-pro";
+src:url("https://use.typekit.net/af/b5f3d4/00000000000000003b9b0605/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/b5f3d4/00000000000000003b9b0605/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/b5f3d4/00000000000000003b9b0605/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"ff-good-web-pro";
+src:url("https://use.typekit.net/af/47dee7/00000000000000003b9b05ff/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/47dee7/00000000000000003b9b05ff/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/47dee7/00000000000000003b9b05ff/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"ff-good-web-pro";
+src:url("https://use.typekit.net/af/1ffeae/00000000000000003b9b05fe/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/1ffeae/00000000000000003b9b05fe/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/1ffeae/00000000000000003b9b05fe/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"ff-good-web-pro";
+src:url("https://use.typekit.net/af/322c7a/00000000000000003b9b0603/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/322c7a/00000000000000003b9b0603/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/322c7a/00000000000000003b9b0603/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;
+}
+
+@font-face {
+font-family:"ff-good-web-pro";
+src:url("https://use.typekit.net/af/d96afc/00000000000000003b9b0602/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff2"),url("https://use.typekit.net/af/d96afc/00000000000000003b9b0602/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff"),url("https://use.typekit.net/af/d96afc/00000000000000003b9b0602/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;
+}
+
+@font-face {
+font-family:"ff-good-web-pro-extra-conden";
+src:url("https://use.typekit.net/af/37ef78/00000000000000003b9b063c/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/37ef78/00000000000000003b9b063c/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/37ef78/00000000000000003b9b063c/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"ff-good-web-pro-extra-conden";
+src:url("https://use.typekit.net/af/518b0f/00000000000000003b9b063d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/518b0f/00000000000000003b9b063d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/518b0f/00000000000000003b9b063d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+.tk-ff-good-web-pro { font-family: "ff-good-web-pro",sans-serif; }
+.tk-ff-good-web-pro-wide { font-family: "ff-good-web-pro-wide",sans-serif; }
+.tk-ff-good-web-pro-condensed { font-family: "ff-good-web-pro-condensed",sans-serif; }
+.tk-ff-good-web-pro-extended { font-family: "ff-good-web-pro-extended",sans-serif; }
+.tk-ff-good-web-pro-extra-conden { font-family: "ff-good-web-pro-extra-conden",sans-serif; }
+.tk-ff-good-web-pro-narrow { font-family: "ff-good-web-pro-narrow",sans-serif; }
+
+/* @import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:300,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Josefin+Slab&display=swap"); */
+/* *,
+*::before,
+*::after {
+  box-sizing: border-box;
+} */
+
+/* body {
+  background: #fff;
+  width: 100%;
+  height: 100vh;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+} */
+
+.process {
+  width: 100%;
+  padding: 0 15px;
+  text-align: center;
+}
+.process__item {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  text-align: center;
+  position: relative;
+  padding: 15px 35px;
+  -webkit-transition: 0.4s ease-in-out;
+  transition: 0.4s ease-in-out;
+  cursor: pointer;
+}
+.process__item:hover {
+  background: #f2f2f2;
+}
+.process__item:hover .process__number {
+  -webkit-transform: translateY(5px);
+          transform: translateY(5px);
+  color: #000;
+  -webkit-text-stroke: 1px #000
+}
+.process__item:hover .process__subtitle{
+    color: #000;
+}
+.process__number {
+  font-size: 35px;
+  -webkit-text-stroke: 1px #8c8c8c;
+  display: block;
+  color: transparent;
+  font-family: "ff-good-web-pro-extended",sans-serif;
+  font-weight: 700;
+  /* font-style: italic; */
+  -webkit-transition: 0.4s ease-in-out;
+  transition: 0.4s ease-in-out;
+}
+/* .process__title {
+  display: block;
+  font-family: "ff-good-web-pro-extra-conden",sans-serif;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  font-size: 24px;
+  color: #000;
+  text-transform: uppercase;
+  margin-top: 30px;
+} */
+.process__subtitle {
+  display: block;
+  /* font-family: "Josefin Slab"; */
+  font-size: 20px;
+  color: #8c8c8c;
+  margin-top: 30px;
+  line-height: 1.5;
+  -webkit-transition: 0.4s ease-in-out;
+    transition: 0.4s ease-in-out;
+}
+
+@media (max-width: 480px){
+  #map{
+    width: 100%;
+    height: 350px;
+  }
+  .fitvids-container{
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .process {
+    display: inline-block;
+  }
+  .process__item {
+    width: 49%;
+    display: inline-block;
+  }
+}
+@media (min-width: 1200px) {
+  .process {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+    -webkit-box-pack: justify;
+            justify-content: space-between;
+  }
+  .process__item {
+    width: 100%;
+  }
+  .process__item:not(:last-of-type)::after {
+    content: "";
+    width: 1px;
+    height: 75%;
+    background: #8c8c8c;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    opacity: 0.2;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+  }
+}
